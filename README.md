@@ -1,4 +1,4 @@
 # hello-world
 First repository
-Testing, testing
+Testing, testing.
 Something about myself
